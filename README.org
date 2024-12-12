@@ -1,0 +1,3 @@
+# emacs-patches
+
+Various patches I apply to my Emacs derivation.
