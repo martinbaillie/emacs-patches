@@ -10,5 +10,9 @@
         ./emacs30/poll.patch
         ./emacs30/system-appearance.patch
       ];
+      emacs31 = [
+        ./emacs31/poll.patch
+        ./emacs31/system-appearance.patch
+      ];
     };
 }
